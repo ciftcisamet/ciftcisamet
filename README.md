@@ -1,7 +1,6 @@
 ### Hello World 👋
 
 I am a front end developer
-
 </br>
 
 ## Connect with me
